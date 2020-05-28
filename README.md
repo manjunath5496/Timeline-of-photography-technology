@@ -72,9 +72,7 @@
 <li>1949 &ndash; The&nbsp;<a title="Contax" href="https://en.wikipedia.org/wiki/Contax#Dresden-built_Contax_SLR_Models">Contax S</a>&nbsp;camera is introduced, the first 35&nbsp;mm&nbsp;<a title="Single-lens reflex camera" href="https://en.wikipedia.org/wiki/Single-lens_reflex_camera">SLR</a>&nbsp;camera with a&nbsp;<a title="Pentaprism" href="https://en.wikipedia.org/wiki/Pentaprism">pentaprism</a>&nbsp;eye-level viewfinder.</li>
 <li>1952 &ndash;&nbsp;<em><a title="Bwana Devil" href="https://en.wikipedia.org/wiki/Bwana_Devil">Bwana Devil</a></em>, a low-budget&nbsp;<a title="Polarized 3D system" href="https://en.wikipedia.org/wiki/Polarized_3D_system">polarized 3-D</a>&nbsp;film, premieres in late November and starts a brief 3-D craze that begins in earnest in 1953 and fades away during 1954.</li>
 <li>1954 &ndash;&nbsp;<a title="Leica M3" href="https://en.wikipedia.org/wiki/Leica_M3">Leica M</a>&nbsp;Introduced</li>
-</ul>
-<div class="thumb tright">&nbsp;</div>
-<ul>
+
 <li>1957 &ndash; First&nbsp;<a title="Asahi Pentax" href="https://en.wikipedia.org/wiki/Asahi_Pentax">Asahi Pentax</a>&nbsp;SLR introduced.</li>
 <li>1957 &ndash; First digital computer acquisition of scanned photographs, by&nbsp;<a class="mw-redirect" title="Russell Kirsch" href="https://en.wikipedia.org/wiki/Russell_Kirsch">Russell Kirsch</a>&nbsp;et al. at the U.S. National Bureau of Standards (now the&nbsp;<a title="National Institute of Standards and Technology" href="https://en.wikipedia.org/wiki/National_Institute_of_Standards_and_Technology">NIST</a>).<sup id="cite_ref-10" class="reference"></sup></li>
 <li>1959 &ndash;&nbsp;<a title="Nikon F" href="https://en.wikipedia.org/wiki/Nikon_F">Nikon F</a>&nbsp;introduced.</li>
@@ -84,9 +82,7 @@
 <li>1967 &ndash; First MOS 10 by 10 active pixel array shown by Noble<sup id="cite_ref-11" class="reference"></sup></li>
 <li>1972 &ndash; Integrated Photomatrix (Noble) demonstrates for 64 by 64 MOS active pixel array</li>
 <li>1973 &ndash;&nbsp;<a title="Fairchild Semiconductor" href="https://en.wikipedia.org/wiki/Fairchild_Semiconductor">Fairchild Semiconductor</a>&nbsp;releases the first large image forming&nbsp;<a title="Charge-coupled device" href="https://en.wikipedia.org/wiki/Charge-coupled_device">CCD</a>&nbsp;<a title="Microprocessor" href="https://en.wikipedia.org/wiki/Microprocessor">chip</a>: 100 rows and 100 columns of&nbsp;<a title="Pixel" href="https://en.wikipedia.org/wiki/Pixel">pixels</a>.</li>
-</ul>
-<div class="thumb tright">&nbsp;</div>
-<ul>
+
 <li>1974 &ndash;&nbsp;<a title="Josef H. Neumann" href="https://en.wikipedia.org/wiki/Josef_H._Neumann">Josef H. Neumann</a>&nbsp;created the first&nbsp;<a title="Chemogram" href="https://en.wikipedia.org/wiki/Chemogram">Chemograms</a>&nbsp;combining the disciplines painting and photography within the fotographic layer for the first time.</li>
 <li>1975 &ndash; Bryce Bayer of Kodak develops the&nbsp;<a title="Bayer filter" href="https://en.wikipedia.org/wiki/Bayer_filter">Bayer filter</a>&nbsp;mosaic pattern for CCD color image sensors.</li>
 <li>1976 &ndash;&nbsp;<a title="Steadicam" href="https://en.wikipedia.org/wiki/Steadicam">Steadicam</a>&nbsp;becomes available.</li>
